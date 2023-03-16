@@ -1,1 +1,1 @@
-echo "this is second script"
+echo "this is second script UPDATED"

@@ -1,1 +1,1 @@
-echo "this is second script UPDATED"
+echo "this is second script UPDATED to automate build"
